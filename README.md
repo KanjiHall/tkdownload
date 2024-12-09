@@ -70,9 +70,5 @@ Download Python from here: https://www.python.org/downloads/
 
 ---
 
-#### 7. Contact for Support
-<<<<<<< HEAD
-If you encounter issues or need assistance, please reach out via email or the developer's GitHub.
-=======
-If you encounter issues or need assistance, please reach out via email or the developer's GitHub.
->>>>>>> 161e0dc (Initial commit: Add TikTok video download tool)
+#### 7. Contact for Work and Support
+Email: kanjihall1609@gmail.com / hacermuden@gmail.com
