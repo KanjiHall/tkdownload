@@ -2,8 +2,7 @@
 # tkdownload
 This tool automates downloading TikTok videos using the tkdown.net API. It processes multiple URLs from a file, extracts video IDs, and saves videos directly to your local storage in bulk. Simplify retrieving and saving TikTok videos without manually interacting with the website.
 
-=======
->>>>>>> 161e0dc (Initial commit: Add TikTok video download tool)
+========
 ### User Guide for Video Download Program
 
 #### 1. System Requirements
